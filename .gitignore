@@ -17,3 +17,5 @@ target
 *.project
 .classpath
 .project
+.settings
+.cache
