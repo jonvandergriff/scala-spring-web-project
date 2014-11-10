@@ -1,4 +1,4 @@
-package au.com.belmonttechnology
+package com.jvg
 
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.RequestMapping

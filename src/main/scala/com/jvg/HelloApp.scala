@@ -1,4 +1,4 @@
-package au.com.belmonttechnology;
+package com.jvg;
 
 /**
  * Hello world!
